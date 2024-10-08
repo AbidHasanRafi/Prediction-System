@@ -1,4 +1,4 @@
-## This repository is a part of a research projet that contains components for a Prediction System.
+## This repository is a part of a research project that contains components for a Prediction System.
 
 - **model-ui**: A React application that serves as the user interface.
 - **server-api**: A Flask application that handles the backend logic and API requests.
