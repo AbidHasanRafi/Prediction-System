@@ -4,7 +4,8 @@ import axios from "axios";
 const Header = () => (
   <header className="text-center mb-6">
     <h1 className="text-2xl font-semibold text-blue-800">
-      Plant Disease Prediction System
+      Plant Leaf Disease Detection Incorporating IoT and XAI-Enhanced Deep
+      Learning
     </h1>
     <p className="text-base text-gray-700 mt-3">
       This system is a part of a reserch project that leverages deep learning to
