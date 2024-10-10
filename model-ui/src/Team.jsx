@@ -9,32 +9,36 @@ const Team = () => {
       <div className="flex flex-wrap justify-center space-y-6 md:space-y-0 md:space-x-6">
         <div className="flex-1 min-w-[250px] text-center">
           <h3 className="text-base font-semibold text-gray-900">
-            Dr. John Doe
+            Pankaj Bhowmik
           </h3>
           <p className="text-sm text-gray-600">
-            Lead Researcher, Department of Computer Science
+            Faculty Member, Department of Computer Science and Engineering (CSE)
             <br />
-            University of XYZ
+            Hajee Mohammad Danesh Science & Technology University, Dinajpur
             <br />
-            Email: john.doe@xyz.edu
-          </p>
-        </div>
-        <div className="flex-1 min-w-[250px] text-center">
-          <h3 className="text-base font-semibold text-gray-900">Jane Smith</h3>
-          <p className="text-sm text-gray-600">
-            Machine Learning Engineer, XYZ Institute of Technology
-            <br />
-            Email: jane.smith@xyztech.edu
+            Email: pankaj.cshstu@gmail.com
           </p>
         </div>
         <div className="flex-1 min-w-[250px] text-center">
           <h3 className="text-base font-semibold text-gray-900">
-            Alice Johnson
+            Pijush Kanti Roy Partho
           </h3>
           <p className="text-sm text-gray-600">
-            Software Developer, ABC Research Group
+            Dept. of ECE, Hajee Mohammad Danesh Science & Technology University,
+            Dinajpur
             <br />
-            Email: alice.johnson@abcresearch.com
+            Email: pijushkantiroy2040@gmail.com
+          </p>
+        </div>
+        <div className="flex-1 min-w-[250px] text-center">
+          <h3 className="text-base font-semibold text-gray-900">
+            Md. Abid Hasan Rafi
+          </h3>
+          <p className="text-sm text-gray-600">
+            Dept. of ECE, Hajee Mohammad Danesh Science & Technology University,
+            Dinajpur
+            <br />
+            Email: ahr16.abidhasanrafi@gmail.com
           </p>
         </div>
       </div>
